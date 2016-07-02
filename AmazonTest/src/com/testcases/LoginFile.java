@@ -7,5 +7,7 @@ public class LoginFile {
 		
 		
 		System.out.println("Login First Test Case");
+		
+		System.out.println("Login Second Test case");
 	}
 }
